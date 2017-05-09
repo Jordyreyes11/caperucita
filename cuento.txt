@@ -1,0 +1,3 @@
+cuento
+ Este es el cuento de caperucita roja.
+Aqui sigue el primer capitulo.
